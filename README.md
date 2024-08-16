@@ -14,7 +14,7 @@
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090929?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/MaslyakIlya)
 [![Instagram](https://img.shields.io/badge/-Instagram-090929?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/maslyak999)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090929?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com//Maslyak)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090929?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/ilya-maslyanyi-9b6595285/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMaslyak&show_icons=true&theme=transparent)](https://github.com/MrMaslyak/github-readme-stats)
 
