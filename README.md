@@ -20,4 +20,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMaslyak&layout=compact&theme=transparent)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ilya&theme=transparent)](https://github.com/Ilya/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Maslyak&theme=transparent)](https://github.com/Ilya/github-readme-stats)
