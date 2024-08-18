@@ -1,6 +1,6 @@
 ![Header](https://github.com/MrMaslyak/MrMaslyak/blob/main/.idea/assets/gifDownhill.gif)
 
-## I`m Young Java-Developer and Front-End Developer. I live programming and downhill, hardcore music lover 
+## I`m Young Java-Developer, Front-End Developer. I live programming and downhill, music lover and like gym 
 
 ###  Language and Tools:
 
