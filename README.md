@@ -8,6 +8,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-090929?style=for-the-badge&logo=HTML5&logoColor=ED7014)
 ![CSS](https://img.shields.io/badge/-CSS-090929?style=for-the-badge&logo=CSS3&logoColor=0000FF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090929?style=for-the-badge&logo=JavaScript&logoColor=FFFF00)
+![SQL]()
 
 
 
