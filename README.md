@@ -2,6 +2,8 @@
 
 ## I`m Young Java-Developer, Front-End Developer. I live programming and downhill, music lover and like gym 
 
+## PROGRAMMING - It`s my lifestyle
+
 ###  Language and Tools:
 
 ![Java](https://img.shields.io/badge/-Java-090929?style=for-the-badge&logo=oracle&logoColor=ED7014)
