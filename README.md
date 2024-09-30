@@ -1,6 +1,5 @@
-<div align="center">
 ![Header](https://github.com/MrMaslyak/MrMaslyak/blob/main/.idea/assets/gifDownhill.gif)
-</div>
+
 <div align="center">
 
 **👨‍💻 I’m a Young Java Developer & Front-End Developer 🚀**  
