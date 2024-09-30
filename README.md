@@ -1,8 +1,12 @@
 ![Header](https://github.com/MrMaslyak/MrMaslyak/blob/main/.idea/assets/gifDownhill.gif)
 
-## I`m Young Java-Developer, Front-End Developer. I live programming and downhill, music lover and like gym 
+👨‍💻 I’m a Young Java Developer & Front-End Developer 🚀
+🌟 Programming is my lifestyle
+🚴‍♂️ Downhill is my soul
+🎶 Music keeps me going
+🏋️‍♂️ Gym powers my body
 
-## PROGRAMMING - It`s my lifestyle
+I live and breathe coding, downhill biking, and music. For me, it's not just a hobby—it’s who I am.
 
 ###  Language and Tools:
 
