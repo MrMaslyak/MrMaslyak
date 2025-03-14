@@ -30,7 +30,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090929?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/ilya-maslyanyi-9b6595285/)
 
 ### What I Known:
-[![Excel](https://img.shields.io/badge/-Excel-090929?style=for-the-badge&logo=excel&logoColor=62c935)](https://docs.google.com/spreadsheets/d/1VkrdpGPi2Fg71lr69iur5_kRh2X3qIM6NTHnMvZaSmQ/edit?gid=0#gid=0)
+[![Excel Table (Pick)](https://img.shields.io/badge/-Excel-090929?style=for-the-badge&logo=excel&logoColor=62c935)](https://docs.google.com/spreadsheets/d/1VkrdpGPi2Fg71lr69iur5_kRh2X3qIM6NTHnMvZaSmQ/edit?gid=0#gid=0)
 
 
 <table>
