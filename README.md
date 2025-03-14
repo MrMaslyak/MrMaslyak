@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**👨‍💻 I’m a Young Java Developer & Front-End Developer 🚀**  
+**👨‍💻 I’m a Young Java Developer 🚀**  
 **🌟 Programming is my lifestyle**  
 **🚴‍♂️ Downhill is my soul**  
 **🎶 Music keeps me going**  
