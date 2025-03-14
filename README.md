@@ -29,8 +29,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090929?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/maslyak999)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090929?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/ilya-maslyanyi-9b6595285/)
 
-## What i know:
-[!https://docs.google.com/spreadsheets/d/1VkrdpGPi2Fg71lr69iur5_kRh2X3qIM6NTHnMvZaSmQ/edit?gid=0#gid=0])
+### What I Known:
+[![Excel](https://img.shields.io/badge/-Excel-090929?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://docs.google.com/spreadsheets/d/1VkrdpGPi2Fg71lr69iur5_kRh2X3qIM6NTHnMvZaSmQ/edit?gid=0#gid=0)
 
 
 <table>
