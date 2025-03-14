@@ -11,7 +11,7 @@
 </div>
 
 
-### I live and breathe coding, downhill biking, and music.  
+### I live and breathe coding, downhill biking-GYM, and music.  
 ### For me, it's not just a hobby — it’s who I am.
 
 ###  Language and Tools:
@@ -28,6 +28,10 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090929?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/MaslyakIlya)
 [![Instagram](https://img.shields.io/badge/-Instagram-090929?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/maslyak999)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090929?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/ilya-maslyanyi-9b6595285/)
+
+## What i know:
+[!https://docs.google.com/spreadsheets/d/1VkrdpGPi2Fg71lr69iur5_kRh2X3qIM6NTHnMvZaSmQ/edit?gid=0#gid=0])
+
 
 <table>
   <tr>
