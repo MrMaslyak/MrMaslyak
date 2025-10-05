@@ -34,7 +34,7 @@
 
 ### Certificate:
 
-[![NASA Hackathon Certificate](https://img.shields.io/badge/-NASA_Hackathon_Certificate-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/NASASpaceAppsChallenge.pdf)
+[![🌎 NASA Hackathon Certificate](https://img.shields.io/badge/-NASA_Hackathon_Certificate-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/NASASpaceAppsChallenge.pdf)
 
 <table>
   <tr>
