@@ -34,11 +34,11 @@
 
 ### 🏆 Certificate:
 
-[![ NASA Hackathon Certificate](https://img.shields.io/badge/-NASA_Hackathon_Certificate-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/NASASpaceAppsChallenge.pdf)
-[![ Hilel Java 1 Certificate](https://img.shields.io/badge/-Hilel_Java_1_Certificate-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/jave_programmer_hilel1.pdf)
-[![ Hilel Java 2 Certificate](https://img.shields.io/badge/-Hilel_Java_2_Certificate-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/java_programmer_hilel2.pdf)
-[![ Hilel Front-End 1 Certificate](https://img.shields.io/badge/-Hilel_Front_end_1_Certificate-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/frontEnd_programmer_hilel1.pdf)
-[![ Hilel Front-End 2 Certificate](https://img.shields.io/badge/-Hilel_Front_end_2_Certificate-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/frontEnd_programmer_hilel2.pdf)
+[![ NASA Hackathon](https://img.shields.io/badge/-NASA_Hackathon-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/NASASpaceAppsChallenge.pdf)
+[![ Hilel Java lvl 1](https://img.shields.io/badge/-Hilel_Java_lvl_1-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/jave_programmer_hilel1.pdf)
+[![ Hilel Java lvl 2](https://img.shields.io/badge/-Hilel_Java_lvl_2-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/java_programmer_hilel2.pdf)
+[![ Hilel Front-End lvl 1](https://img.shields.io/badge/-Hilel_Front_end_lvl_1-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/frontEnd_programmer_hilel1.pdf)
+[![ Hilel Front-End lvl 2](https://img.shields.io/badge/-Hilel_Front_end_lvl_2-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/frontEnd_programmer_hilel2.pdf)
 
 <table>
   <tr>
