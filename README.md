@@ -31,7 +31,7 @@
 ### What I Known:
 
 [![Excel Table (Pick)](<https://img.shields.io/badge/-ExcelTable(Pick)-090929?style=for-the-badge&logo=excel&logoColor=62c935>)](https://docs.google.com/spreadsheets/d/1VkrdpGPi2Fg71lr69iur5_kRh2X3qIM6NTHnMvZaSmQ/edit?gid=0#gid=0)
-[🌎 NASA Hackathon certificate (PDF)](/docs/NASASpaceAppsChallenge.pdf)
+[🌎 NASA Hackathon certificate (PDF)](/doc/NASASpaceAppsChallenge.pdf)
 
 <table>
   <tr>
