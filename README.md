@@ -35,6 +35,10 @@
 ### 🏆 Certificate:
 
 [![ NASA Hackathon Certificate](https://img.shields.io/badge/-NASA_Hackathon_Certificate-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/NASASpaceAppsChallenge.pdf)
+[![ Hilel Java 1 Certificate](https://img.shields.io/badge/-NASA_Hackathon_Certificate-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/jave_programmer_hilel1.pdf)
+[![ Hilel Java 2 Certificate](https://img.shields.io/badge/-NASA_Hackathon_Certificate-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/java_programmer_hilel2.pdf)
+[![ Hilel Front-End 1 Certificate](https://img.shields.io/badge/-NASA_Hackathon_Certificate-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/frontEnd_programmer_hilel1.pdf)
+[![ Hilel Front-End 2 Certificate](https://img.shields.io/badge/-NASA_Hackathon_Certificate-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/frontEnd_programmer_hilel2.pdf)
 
 <table>
   <tr>
