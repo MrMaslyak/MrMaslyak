@@ -14,7 +14,7 @@
 
 ### For me, it's not just a hobby — it’s who I am.
 
-### Language and Tools:
+### ▄︻デ ══━ 一 Language and Tools:
 
 ![Java](https://img.shields.io/badge/-Java-090929?style=for-the-badge&logo=oracle&logoColor=ED7014)
 ![HTML](https://img.shields.io/badge/-HTML-090929?style=for-the-badge&logo=HTML5&logoColor=ED7014)
@@ -22,19 +22,19 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090929?style=for-the-badge&logo=JavaScript&logoColor=FFFF00)
 ![SQL](https://img.shields.io/badge/-SQL-090929?style=for-the-badge&logo=SQL&logoColor=FFFF00)
 
-### Socials:
+### 🌏 Socials:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090929?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/MaslyakIlya)
 [![Instagram](https://img.shields.io/badge/-Instagram-090929?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/maslyak999)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090929?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/ilya-maslyanyi-9b6595285/)
 
-### What I Known:
+### 🚬 What I Known:
 
 [![Excel Table (Pick)](<https://img.shields.io/badge/-ExcelTable(Pick)-090929?style=for-the-badge&logo=excel&logoColor=62c935>)](https://docs.google.com/spreadsheets/d/1VkrdpGPi2Fg71lr69iur5_kRh2X3qIM6NTHnMvZaSmQ/edit?gid=0#gid=0)
 
 ### 🏆 Certificate:
 
-🚀 [![ NASA Hackathon Certificate](https://img.shields.io/badge/-NASA_Hackathon_Certificate-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/NASASpaceAppsChallenge.pdf)
+[![ NASA Hackathon Certificate](https://img.shields.io/badge/-NASA_Hackathon_Certificate-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/NASASpaceAppsChallenge.pdf)
 
 <table>
   <tr>
