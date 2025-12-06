@@ -10,6 +10,7 @@
 
 </div>
 
+
 ### I live and breathe coding, downhill biking-GYM, and music.
 
 ### For me, it's not just a hobby — it’s who I am.
