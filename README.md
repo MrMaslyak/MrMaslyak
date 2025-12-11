@@ -8,7 +8,6 @@
 **🎶 Music keeps me going**  
 **🏋️‍♂️ Gym powers my body**
 
-
 </div>
 
 
