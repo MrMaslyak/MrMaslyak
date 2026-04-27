@@ -47,10 +47,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090929?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/maslyak999)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090929?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/illia-maslianyi-9b6595285/)
 
-### 🚬 What I Known:
-
-[![Excel Table (Pick)](<https://img.shields.io/badge/-ExcelTable(Pick)-090929?style=for-the-badge&logo=excel&logoColor=62c935>)](https://docs.google.com/spreadsheets/d/1VkrdpGPi2Fg71lr69iur5_kRh2X3qIM6NTHnMvZaSmQ/edit?gid=0#gid=0)
-
 ### 🏆 Certificate:
 
 [![ EPAM Internship](https://img.shields.io/badge/-EPAM_Internship-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/EpamInternship.pdf)
