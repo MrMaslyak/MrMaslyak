@@ -2,21 +2,19 @@
 
 <div align="center">
 
-**👨‍💻 I’m a Young Java Developer 🚀**  
+**👨‍💻 I’m a Java Developer 🚀**  
 **🌟 Programming is my lifestyle**  
-**🚴‍♂️ Downhill is my soul**  
+**🚴‍♂️ Downhill is my passion**  
 **🎶 Music keeps me going**  
-**🏋️‍♂️ Gym powers my body**
+**🏋️‍♂️ Gym keeps me strong**
 
 </div>
 
+### I live and breathe coding, downhill biking, gym, and music.
 
+### It’s more than a hobby — it’s part of who I am.
 
-### I live and breathe coding, downhill biking-GYM, and music.
-
-### For me, it's not just a hobby — it’s who I am.
-
-### ▄︻デ ══━ 一 Language and Tools:
+### ▄︻デ ══━ 一 Languages and Tools:
 
 ![Java](https://img.shields.io/badge/-Java-090929?style=for-the-badge&logo=oracle&logoColor=ED7014)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-090929?style=for-the-badge&logo=springboot&logoColor=6DB33F)
