@@ -45,7 +45,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090929?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/MaslyakIlya)
 [![Instagram](https://img.shields.io/badge/-Instagram-090929?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/maslyak999)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090929?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/illia-maslianyi-9b6595285/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090929?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/illia-maslianyi-9b6595285/)
 
 ### 🚬 What I Known:
 
@@ -53,7 +53,7 @@
 
 ### 🏆 Certificate:
 
-[![ EPAM Intership](https://img.shields.io/badge/-EPAM_Intership-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/EpamInternship.pdf)
+[![ EPAM Internship](https://img.shields.io/badge/-EPAM_Internship-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/EpamInternship.pdf)
 [![ NASA Hackathon](https://img.shields.io/badge/-NASA_Hackathon-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/NASASpaceAppsChallenge.pdf)
 [![ Hilel Java lvl 1](https://img.shields.io/badge/-Hilel_Java_lvl_1-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/jave_programmer_hilel1.pdf)
 [![ Hilel Java lvl 2](https://img.shields.io/badge/-Hilel_Java_lvl_2-090929?style=for-the-badge&logo=adobeacrobatreader&logoColor=E60000)](./doc/java_programmer_hilel2.pdf)
