@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**👨‍💻 I’m a Java Developer 🚀**  
+**👨‍💻 I'm a Java Developer 🚀**  
 **🌟 Programming is my lifestyle**  
 **🚴‍♂️ Downhill is my passion**  
 **🎶 Music keeps me going**  
@@ -12,16 +12,19 @@
 
 ### I live and breathe coding, downhill biking, gym, and music.
 
-### It’s more than a hobby — it’s part of who I am.
+### It's more than a hobby — it's part of who I am.
 
 ### ▄︻デ ══━ 一 Languages and Tools:
 
 ![Java](https://img.shields.io/badge/-Java-090929?style=for-the-badge&logo=oracle&logoColor=ED7014)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-090929?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Spring Cloud](https://img.shields.io/badge/-Spring_Cloud-090929?style=for-the-badge&logo=spring&logoColor=6DB33F)
 ![Spring Security](https://img.shields.io/badge/-Spring_Security-090929?style=for-the-badge&logo=springsecurity&logoColor=6DB33F)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-090929?style=for-the-badge&logo=hibernate&logoColor=59666C)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090929?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/-MongoDB-090929?style=for-the-badge&logo=mongodb&logoColor=13AA52)
 ![Redis](https://img.shields.io/badge/-Redis-090929?style=for-the-badge&logo=redis&logoColor=DC382D)
+![ActiveMQ](https://img.shields.io/badge/-ActiveMQ-090929?style=for-the-badge&logo=apache&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/-Docker-090929?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![AWS](https://img.shields.io/badge/-AWS-090929?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-090929?style=for-the-badge&logo=awslambda&logoColor=FF9900)
@@ -38,6 +41,16 @@
 ![HTML](https://img.shields.io/badge/-HTML-090929?style=for-the-badge&logo=HTML5&logoColor=ED7014)
 ![CSS](https://img.shields.io/badge/-CSS-090929?style=for-the-badge&logo=CSS3&logoColor=0000FF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090929?style=for-the-badge&logo=JavaScript&logoColor=FFFF00)
+![Lombok](https://img.shields.io/badge/-Lombok-090929?style=for-the-badge&logo=java&logoColor=007396)
+![MapStruct](https://img.shields.io/badge/-MapStruct-090929?style=for-the-badge&logo=java&logoColor=007396)
+![Eureka](https://img.shields.io/badge/-Eureka-090929?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![Resilience4j](https://img.shields.io/badge/-Resilience4j-090929?style=for-the-badge&logo=java&logoColor=007396)
+![Cucumber](https://img.shields.io/badge/-Cucumber-090929?style=for-the-badge&logo=cucumber&logoColor=23D96C)
+![JUnit](https://img.shields.io/badge/-JUnit-090929?style=for-the-badge&logo=java&logoColor=007396)
+![TestContainers](https://img.shields.io/badge/-TestContainers-090929?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Prometheus](https://img.shields.io/badge/-Prometheus-090929?style=for-the-badge&logo=prometheus&logoColor=E6522C)
+![Checkstyle](https://img.shields.io/badge/-Checkstyle-090929?style=for-the-badge&logo=java&logoColor=007396)
+![JaCoCo](https://img.shields.io/badge/-JaCoCo-090929?style=for-the-badge&logo=java&logoColor=007396)
 
 ### 🌏 Socials:
 
